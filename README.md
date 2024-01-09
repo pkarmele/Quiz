@@ -1,1 +1,1 @@
-Quiz gamw using html, css and js.
+Quiz game using html, css and js.
